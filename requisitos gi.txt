@@ -1,0 +1,19 @@
+levantamentos de requisitos
+
+cliente: Sr junior, mecânico, 60 anos;
+
+dor: os clientes chegam muito cedo, antes do carro estar pronto, o espaço é pequeno, lota de cliente, ele quer vender mais o seu trabalho, na sua localidade é tudo boca a boca, so conhecido pelo seu bairro sem divulgação nenhuma;
+atualmente a comunicação com os clientes é atraves de mensagens do whatsapp, causando mal entendido no horario e combinados. 
+
+intuitivo, 18 ate 80 anos;
+
+solução: alem da criação do site para maior reconhecimento do estabelecimento do meu cliente, farei uma AI, onde nao há necessidade de avisar os clientes se o carro esta pronto, ela necessita apenas de um joinha do sr junior que automaticamente vera o carro e mandara mensagem pro seu cliente avisando.
+ficou combinado a adesao de uma nova ou novo funcionario que fara o cadastro dos novos clientes nessa AI, ja que o sr junior noa tem habilidades com tecnologia.
+
+site: sem frescura, preto, branco, bem basico, mostrar feitos por ele na home page (os carros e motos concertados e limpos), mostrar que tmb é um lava car, lava moto, faz balanceamento, serviços do carro. Anunciar os serviços e venda de produtos, como peças, produtos de limpeza de carro;
+
+orçamento: Desenvolvimento do Site: R$ 2.000 a R$ 4.000
+Integração da IA: R$ 3.000 a R$ 6.000
+Treinamento e Suporte: R$ 500 a R$ 1.000
+Hospedagem e Domínio: R$ 200 a R$ 800 (custo anual)
+Manutenção (opcional): R$ 1.000 a R$ 2.000 por ano
