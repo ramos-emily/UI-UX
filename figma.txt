@@ -1,0 +1,4 @@
+Dicas Figma
+
+
+ctrl G, agrupa itens dentro do Layers para modificar de uma vez
